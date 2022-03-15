@@ -16,13 +16,15 @@ img {
 display: block;
 margin-left: auto;
 margin-right: auto;
-width: 43%;
+width: 30%;
 }
 
 .List{
+    list-style: none;
     color: yellow;
-    margin: auto;
+    text-align: center;
+    list-style-position: insid
     width: 50%;
-    padding-top: 100px;
+    padding-top: 150px;
     font-size: 20px;
 }
